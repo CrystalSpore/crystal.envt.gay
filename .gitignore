@@ -75,3 +75,6 @@ flycheck_*.el
 
 ### mkdocs ###
 site/
+
+### venv ###
+venv/
