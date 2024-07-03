@@ -11,5 +11,6 @@ jobs:
         with:
           fetch-depth: 0
       - run: rm .gitignore
-      - run: sudo apt-get install -y mkdocs
+      - run: sudo apt-get install -y mkdocs python3-pip
+      - run: sudo pip3 install -r requirements.txt
       - run: mkdocs gh-deploy --verbose
