@@ -1,4 +1,16 @@
-site_name: My Docs
-
+site_name: CrystalENVT
+theme:
+  name: simple-blog
+  custom_dir: siteTheme/
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+  theme_style: dark
+  components:
+    title: false
+    preview: false
+extra_css:
+  - assets/style/particles.css
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/particlesjs/2.2.1/particles.min.js
 plugins:
   - minify_html
