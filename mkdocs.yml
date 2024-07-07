@@ -8,8 +8,9 @@ theme:
   components:
     title: false
     preview: false
+    footer: false
 extra_css:
-  - assets/style/particles.css
+  - assets/responsiveCal.css
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/particlesjs/2.2.1/particles.min.js
 plugins:
