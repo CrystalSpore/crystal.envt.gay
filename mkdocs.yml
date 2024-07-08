@@ -13,5 +13,7 @@ extra_css:
   - assets/responsiveCal.css
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/particlesjs/2.2.1/particles.min.js
+markdown_extensions:
+  - tables
 plugins:
   - minify_html
