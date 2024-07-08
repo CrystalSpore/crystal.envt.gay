@@ -115,7 +115,9 @@
             {%- endfor %}
 
         {%- endblock %}
-        <canvas class="background" style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; z-index: -1;"></canvas>
+        <div style="position: fixed; top: 0; bottom: 0; left: 0; right: 0; z-index: -1; pointer-events: none;">
+            <canvas class="background" style="position: absolute;"></canvas>
+        </div>
         <script>
             var particles = Particles.init({
                 selector: '.background',
@@ -128,6 +130,10 @@
                 connectParticles: true
             });
         </script>
+        <!-- Cannot get this bottom version to work ;-; -->
+        <!-- <div id="particles-js" style="height: 99%; pointer-events: none;"></div>
+        <script src="/assets/particles.js"></script>
+        <script src="/files/app.js"></script> -->
     </body>
 
 </html>
