@@ -1,5 +1,5 @@
 ## Welcome to my site!
-Included on this site are: An [About Me](/About/), [Stream Schedule](/Schedule/), & List of SMW RomHacks I've played (Coming Soon). Below you can find some quick links to external sites.
+Included on this site are: An [About Me](About.md), [Stream Schedule](Schedule.md), & List of [SMW RomHacks](SMW_Playlist.md) I've played. Below you can find some quick links to external sites.
 
 #### Quick Links
 [YouTube](https://youtube.com/@CrystalENVT)  
