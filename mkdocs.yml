@@ -17,4 +17,13 @@ extra_javascript:
 markdown_extensions:
   - tables
 plugins:
+  - search
   - minify_html
+  - redirects:
+      redirect_maps:
+        'discord.md': 'https://discord.gg/7MYgcYn'
+        'ko-fi.md': 'https://ko-fi.com/CrystalENVT'
+        'kofi.md': 'https://ko-fi.com/CrystalENVT'
+        'twitch.md': 'https://twitch.tv/CrystalENVT'
+        'youtube.md': 'https://youtube.com/@CrystalENVT'
+        'yt.md': 'https://youtube.com/@CrystalENVT'
