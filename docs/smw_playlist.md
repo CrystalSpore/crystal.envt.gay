@@ -9,6 +9,7 @@
 | [Quickie World 2](https://www.youtube.com/playlist?list=PLy_MWY1W_Pqj3TMbOMxgTcuXgOK8yOKAq) | 2024.01.19 | 2024.02.04 |
 | [Nightmare Cafe Series](https://www.youtube.com/playlist?list=PLy_MWY1W_PqiNkH2pHuJX8Il3arioXItP) | 2024.02.06 | 2024.03.04 |
 | [Korosu Mario World](https://www.youtube.com/playlist?list=PLy_MWY1W_Pqi-35T9_IO3SbS40tdgsKz1) | 2024.03.04 | 2024.07.08 |
-| [New Nightmare Cafe Series](https://www.youtube.com/playlist?list=PLy_MWY1W_PqjIMB_5ztUAmjMok5eBivRn) | 2024.07.08 | ***Currently Playing*** |
+| [New Nightmare Cafe Series](https://www.youtube.com/playlist?list=PLy_MWY1W_PqjIMB_5ztUAmjMok5eBivRn) | 2024.07.08 | 2024.08.26 |
+| [Celeste.smc](https://www.youtube.com/playlist?list=PLy_MWY1W_PqhoNJAuhG8Bl2Qo-c3lIo12) | 2024.08.26 | ***Currently Playing*** |
 
 #### Link to unlisted playlist of favorite custom SMW music: [here](https://www.youtube.com/playlist?list=PLy_MWY1W_PqheYAwwGDxOGyl5CHrLQwpn)
