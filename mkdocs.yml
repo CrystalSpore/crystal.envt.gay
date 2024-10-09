@@ -21,9 +21,21 @@ plugins:
   - minify_html
   - redirects:
       redirect_maps:
+        # External - Lowercase
         'discord.md': 'https://discord.gg/7MYgcYn'
         'ko-fi.md': 'https://ko-fi.com/CrystalENVT'
         'kofi.md': 'https://ko-fi.com/CrystalENVT'
         'twitch.md': 'https://twitch.tv/CrystalENVT'
         'youtube.md': 'https://youtube.com/@CrystalENVT'
         'yt.md': 'https://youtube.com/@CrystalENVT'
+        # External - Uppercase
+        'Discord.md': 'https://discord.gg/7MYgcYn'
+        'Ko-Fi.md': 'https://ko-fi.com/CrystalENVT'
+        'Kofi.md': 'https://ko-fi.com/CrystalENVT'
+        'Twitch.md': 'https://twitch.tv/CrystalENVT'
+        'Youtube.md': 'https://youtube.com/@CrystalENVT'
+        'YT.md': 'https://youtube.com/@CrystalENVT'
+        # Internal - Uppercase to Lowercase
+        'About.md': 'about.md'
+        'Schedule.md': 'schedule.md'
+        'SMW_Playlist.md': 'smw_playlist.md'
