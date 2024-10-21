@@ -17,6 +17,7 @@ extra_javascript:
 markdown_extensions:
   - tables
 plugins:
+  - awesome-pages
   - search
   - minify_html
   - redirects:
@@ -37,5 +38,6 @@ plugins:
         'YT.md': 'https://youtube.com/@CrystalENVT'
         # Internal - Uppercase to Lowercase
         'About.md': 'about.md'
+        'Bsky_Moderation_Lists.md': 'bsky_moderation_lists.md'
         'Schedule.md': 'schedule.md'
         'SMW_Playlist.md': 'smw_playlist.md'
