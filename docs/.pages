@@ -1,5 +1,6 @@
 nav:
   - Home: index.md
   - about.md
+  - guides
   - schedule.md
   - smw_playlist.md
